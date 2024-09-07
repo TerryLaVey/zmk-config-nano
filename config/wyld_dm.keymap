@@ -49,9 +49,9 @@
 &trans            &trans             &trans             &trans        &trans        &trans                &kp SEMICOLON   &kp SQT           &kp COMMA          &kp PERIOD            &kp SLASH   &kp QUESTION
 &trans            &trans             &trans             &trans        &trans        &trans                &kp UNDERSCORE  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp NON_US_BACKSLASH  &kp COLON   &kp DOUBLE_QUOTES
                                      &bootloader        &trans                                                                              &kp LESS_THAN      &kp GREATER_THAN
-&trans            &trans             &trans                                                               &trans
-                                                        &mkp LCLK     &mkp MCLK     &mkp RCLK                             &bootloader
-                                                                                                                                            &trans             &trans
+&trans            &trans             &trans                                                               &kp UP_ARROW
+                                                        &mkp LCLK     &mkp MCLK     &mkp RCLK                             &kp RIGHT
+                                                                                                                                            &kp LEFT           &kp DOWN
             >;
         };
 
