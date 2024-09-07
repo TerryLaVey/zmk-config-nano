@@ -50,7 +50,7 @@
 &trans            &trans             &trans             &trans        &trans        &trans                &kp UNDERSCORE  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp NON_US_BACKSLASH  &kp COLON   &kp DOUBLE_QUOTES
                                      &bootloader        &trans                                                                              &kp LESS_THAN      &kp GREATER_THAN
 &trans            &trans             &trans                                                               &trans
-                                                        &trans        &trans        &trans                                &bootloader
+                                                        &mkp LCLK     &mkp MCLK     &mkp RCLK                             &bootloader
                                                                                                                                             &trans             &trans
             >;
         };
